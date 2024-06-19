@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Денис Марков](https://up.htmlacademy.ru/adaptive-individual/2/user/2208219).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Изосимов] (https://htmlacademy.ru/profile/id605037).
 
 ---
 
